@@ -7,4 +7,5 @@ feature1 开发完成
 feature1 开发完成
 git feature3
 
-继续开发完成了
+git rebase
+继续开发 并完成
